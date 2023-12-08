@@ -14,6 +14,7 @@ A trained model is provided in the link.
 - cplex 12.10.0.3
 - numpy 1.19.5
 - torch 1.10.2
+- with CPLEX Studio IDE 12.8.0
 
 #### To train the Deep Neural Networks:
 
