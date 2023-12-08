@@ -3,7 +3,9 @@
 A Demo is given to help audiences comprehend the paper "Battery-Aware Workflow Scheduling for Portable Heterogeneous Computing".
 
 A trained model is provided in the links.
+
 TrainedModel: https://drive.google.com/file/d/1ifypIhYp9zzLgJPK8iEcs3xGm_G4hooD/view?usp=sharing
+
 DataSet: https://drive.google.com/file/d/1POtxXNNOWNZtAE2VFtIBBkwAe-mwmT61/view?usp=sharing
 
 
