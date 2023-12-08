@@ -17,7 +17,7 @@ DataSet: https://drive.google.com/file/d/1POtxXNNOWNZtAE2VFtIBBkwAe-mwmT61/view?
 - docplex 2.25.236
 - cplex 12.10.0.3
 - numpy 1.19.5
-- torch 1.10.2
+- torch 1.10.2 (CPU version is also OK)
 - with CPLEX Studio IDE 12.8.0
 
 #### To train the Deep Neural Networks:
