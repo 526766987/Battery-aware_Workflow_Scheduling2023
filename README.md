@@ -24,3 +24,9 @@ DataSet: https://drive.google.com/file/d/1POtxXNNOWNZtAE2VFtIBBkwAe-mwmT61/view?
 
 - Python 3.9.18
 - torch 2.0.1 (CUDA)
+
+### See More...
+
+Our customized Battery Management System (BMS) covers state monitoring, SOX estimation, balancing, and communication features.
+
+https://github.com/526766987/Battery_Management_System_36cell
